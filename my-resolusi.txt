@@ -5,4 +5,5 @@ resolusiku
 -membuat youtube chanel
 -menjaga pola makan
 -belajar arduino
+-belajar python
 
