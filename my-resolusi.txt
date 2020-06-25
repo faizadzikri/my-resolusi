@@ -1,9 +1,8 @@
 resolusiku
 -belajar front end 
 -belajar back end
-  ^nodeJS
+  ^PHP
 -membuat youtube chanel
--berlatih calistenik
 -menjaga pola makan
 -belajar arduino
 -belajar python
