@@ -1,8 +1,8 @@
 resolusiku
 -belajar front end 
 -belajar back end
+  ^PHP
 -membuat youtube chanel
--berlatih calistenik
 -menjaga pola makan
 -belajar arduino
 
